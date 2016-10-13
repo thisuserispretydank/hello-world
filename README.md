@@ -1,2 +1,5 @@
 # hello-world
-just another hundreth hello-world repository
+
+AY Lmao
+
+personal information here i like to create repositorys. pretty dank.
